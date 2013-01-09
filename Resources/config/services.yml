@@ -1,6 +1,6 @@
 parameters:
     tremend_krumo.krumo.class: Krumo
-    tremend_krumo.krumo.file: %kernel.root_dir%/../vendor/bundles/Tremend/KrumoBundle/Krumo/Krumo.php
+    tremend_krumo.krumo.file: %kernel.root_dir%/../vendor/tremend/krumobundle/Tremend/KrumoBundle/Krumo/Krumo.php
 
 services:
     tremend_krumo.krumo:
